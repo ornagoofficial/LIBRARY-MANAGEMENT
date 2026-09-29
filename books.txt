@@ -1,0 +1,4 @@
+B01|Python Basics|Ravi Kumar|0
+B02|Computer Networks|Andrew Tanenbaum|0
+B03|Database Fundamentals|Ramez Elmasri|0
+B04|Data Structures|Seymour Lipschutz|0
